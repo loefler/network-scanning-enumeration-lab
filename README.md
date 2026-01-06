@@ -8,7 +8,7 @@ This lab demonstrates hands-on network scanning and enumeration using **Nmap** i
 ## Lab Environment
 - Host OS: Ubuntu Linux
 - Virtualization: VirtualBox
-- Network Type: Local virtual subnet (Ubuntu Server)
+- Network Type: Local virtual subnet
 - Tools Used:
   - Nmap
   - Linux CLI
