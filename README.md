@@ -32,7 +32,7 @@ Actions performed:
 
 This confirmed that the target system was reachable and active on the network.
 
-📸 **Screenshot:** `screenshots/nmap_host_discovery.png`
+**Screenshot:** `screenshots/nmap_host_discovery.png`
 
 ---
 
@@ -55,7 +55,7 @@ Key findings:
 
 These results provide visibility into services that could represent potential security risks if misconfigured or unpatched.
 
-📸 **Screenshot:** `screenshots/nmap_port_scan.png`
+**Screenshot:** `screenshots/nmap_port_scan.png`
 
 ---
 
@@ -74,7 +74,7 @@ Key findings:
 
 These techniques demonstrate how deeper enumeration supports incident response, asset identification, and vulnerability analysis.
 
-📸 **Screenshot:** `screenshots/nmap_os_detection.png`
+**Screenshot:** `screenshots/nmap_os_detection.png`
 
 ---
 
